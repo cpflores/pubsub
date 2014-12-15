@@ -1,6 +1,7 @@
 'use strict';
 
 var _ = requre('underscore');
+var model = requre('../models/badges');
 
 /**
 * Send badges to model to be saved
